@@ -1,8 +1,6 @@
 # Enem Analytics
 
-## Descrição
-
-O Exame Nacional do Ensino Médio (ENEM) é sem dúvidas um dos vestibulares mais importantes do país, por ser uma das principais formas de ingresso em universidades públicas, e alternativa para muitas privadas. Entretanto, vivemos em um dos países mais desiguais do mundo, e a desigualdade social e econômica pode ser um fator determinante para o desempenho dos candidatos. Esse estudo tem o intuito de investigar esses impactos sócio-demográficos, e entender como eles influenciam a nota dos candidatos.
+<img src="datafolio.svg" alt="Datafolio" width="1000"/>
 
 ## Fonte dos Dados
 
